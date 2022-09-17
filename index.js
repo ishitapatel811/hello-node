@@ -1,5 +1,5 @@
 
 const hello = () =>{
-    console.log("hello Node.JS");
+    console.log("Hello Node.jS");
 };
 hello();
